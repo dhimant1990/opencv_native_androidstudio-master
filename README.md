@@ -105,7 +105,7 @@ Here is how I made this project. If you simply want to run openCV with NDK suppo
     ```
 
 * Add OpenCV code
-  * [MainActivity.java](app/src/main/java/ch/hepia/iti/opencvnativeandroidstudio/MainActivity.java)
+  * [MainActivity.java](app/src/main/java/com/dhims/opencv/native_code/MainActivity.java)
   * [activity_main.xml](app/src/main/res/layout/activity_main.xml)
   * [native-lib.cpp](app/src/main/cpp/native-lib.cpp)
 
